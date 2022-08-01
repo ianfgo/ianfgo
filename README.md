@@ -1,7 +1,7 @@
 ### Hi, I'm Ian!
-✨ I started learnig game development in middle 2020. After some projectes that I've never finished, I've published a game called Mega Vegas (this game can be found on Gamejolt). Now I have some experience on Unity and Unreal Engine (C# and C++) and .NET Framework.
+💎 I started learnig game development in middle 2020. After some projectes that I've never finished, I've published a game called Mega Vegas (this game can be found on Gamejolt). Now I have some experience on Unity and Unreal Engine (C# and C++) and .NET Framework.
 
-👨‍💻 Sometimes I code something, just as hobby; I’m currently learning Python.
+🎈 Sometimes I code something, just as hobby; I’m currently learning Python.
 
 ⚡ About me: I'm a Brazilian university student, I'm not studying anything directly related to programming. Unfortunately, here in Brazil, research and science are not that relevant, so I felt safer choosing another area of study.
 <!--
