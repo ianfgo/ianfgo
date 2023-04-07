@@ -3,7 +3,7 @@
 
 🎈 Sometimes I code something, just as hobby; I’m currently learning Python.
 
-⚡ About me: I'm a Brazilian university student, I'm not studying anything directly related to programming. Unfortunately, here in Brazil, research and science are not that relevant, so I felt safer choosing another area of study.
+⚡ About me: I'm a Brazilian university student, I'm not studying anything directly related to programming.
 <!--
 **ianfgo/ianfgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
