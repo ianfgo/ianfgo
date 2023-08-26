@@ -3,10 +3,6 @@
 * I possess proficiency in programming languages such as C++ and C#, particularly within the realm of game and software development, utilizing platforms like Unity/Unreal Engine and .NET Framework.
 * I hold a significant, albeit relatively unexplored, interest in Embedded Systems Development. The prospect of crafting solutions that interact with the tangible, physical world intrigues me greatly, aligning not only with my academic background in Aeronautical Sciences but also with my prospective career as an Aircraft Pilot or in a related profession.
 * Despite the functionality inherent in my projects, they have yet to achieve the desired level of refinement, remaining in a state that I aim to enhance in order to manifest my vision.
-
-🎈 Sometimes I code something, just as hobby.
-
-⚡ About me: I'm a Brazilian university student, I'm not studying anything directly related to programming.
 <!--
 **ianfgo/ianfgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
