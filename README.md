@@ -1,4 +1,4 @@
-### Hi, I'm Ian!
+### Hi, I'm Ian Francisco Gaiecki Oliveira!
 💎 I initiated my studies in the field of programming in 2020, subsequently developing small-scale projects that guided my learning in this domain. While I haven't engaged professionally, I've approached this as a hobby, even though I have earned revenue from one of my projects.
 * I possess proficiency in programming languages such as C++ and C#, particularly within the realm of game and software development, utilizing platforms like Unity/Unreal Engine and .NET Framework.
 * I hold a significant, albeit relatively unexplored, interest in Embedded Systems Development. The prospect of crafting solutions that interact with the tangible, physical world intrigues me greatly, aligning not only with my academic background in Aeronautical Sciences but also with my prospective career as an Aircraft Pilot or in a related profession.
